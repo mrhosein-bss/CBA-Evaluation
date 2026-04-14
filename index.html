@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Character Battle Arena</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div id="main-container">
+        <div id="left-column">
+            <canvas id="gameCanvas" width="500" height="350"></canvas>
+            <div id="controls-area">
+                <div id="moves-container">
+                    Action panel inactive. Load characters and start battle.
+                </div>
+            </div>
+        </div>
+
+        <div id="right-column">
+            <div id="battle-log">
+                <div>> SYSTEM INITIATED</div>
+                <div>> MAIN MENU</div>
+                <div>> 1. Load Characters</div>
+                <div>> 2. Create Character</div>
+                <div>> 3. View Characters</div>
+                <div>> 4. Edit Character</div>
+                <div>> 5. Battle!</div>
+            </div>
+            <input type="text" id="command-input" placeholder="Enter command number...">
+        </div>
+    </div>
+
+    <script src="character.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>

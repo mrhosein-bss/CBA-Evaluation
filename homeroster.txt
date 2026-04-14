@@ -1,0 +1,6 @@
+Pikachu 55 40 35 90
+Charizard 84 78 78 100
+Bulbasaur 49 49 45 45
+Squirtle 48 65 44 43
+Gengar 65 60 60 110
+Mewtwo 110 90 106 130

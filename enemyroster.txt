@@ -1,0 +1,6 @@
+Snorlax 110 65 160 30
+Dragonite 134 95 91 80
+Lapras 85 80 130 60
+Machamp 130 80 90 55
+Alakazam 50 45 55 120
+Gyarados 125 79 95 81
